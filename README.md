@@ -269,7 +269,7 @@ systemctl restart docker
 
 **按图操作**
 
-![1679457554830.png](https://img.zeges.top/r6eUHs.png)  
+![1679467127651.png](https://img.zeges.top/hgXpyY.png)  
 
 然后访问**刚才搭建的npm**的地址`http://服务器ip:81`  
 依次点击`Proxy Hosts`，`Add Proxy Hosts`
