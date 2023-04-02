@@ -290,7 +290,7 @@ systemctl restart docker
 
 ![1679458386342.png](https://img.zeges.top/7zu0Kd.png)  
 
-现在，你应该可以直接用`你的域名`访问`npm`了  
+现在，你应该可以直接用`刚才在cloudflare中添加的域名记录`访问`npm`了  
 
 ### 5.部署面板  
 输入以下命令  
@@ -308,16 +308,17 @@ bash <(curl -Ls https://raw.githubusercontent.com/FranzKafkaYu/x-ui/master/insta
 接下来**按图操作**  
 
 ![1679461560861.png](https://img.zeges.top/SgyyEI.png)  
-
+记得最后还要点击`重启面板`
 完成之后，重新访问`http://ip:端口号/path`  
 然后继续**按图操作**  
 
 ![1679461627975.png](https://img.zeges.top/T2jrbm.png)  
 ![1679461865982.png](https://img.zeges.top/xideon.png) 
 
+如果需要添加用户，默认即可
 **注意区分**`访问面板用的端口`和`此处设置的端口`
 
-然后访问`npm`，你可以用`域名`，也可以用`ip:81`的方式访问  
+然后访问`npm`，你可以用`npm的域名记录`，也可以用`ip:81`的方式访问  
 `edit`任意一条记录，接下来继续**按图操作**  
 
 ![1679462158913.png](https://img.zeges.top/PJCgqG.png)  
@@ -346,7 +347,7 @@ bash <(curl -Ls https://raw.githubusercontent.com/FranzKafkaYu/x-ui/master/insta
 ### 1.PC  
 访问[客户端下载页](https://alist.zeges.top/123%E4%BA%91%E7%9B%98/%E8%BD%AF%E4%BB%B6/%E5%B7%A5%E5%85%B7)  
 下载`.zip`文件，之后解压，打开`v2rayn.exe`  
-访问`https://你的域名/path`  
+访问`https://npm的域名记录/path`  
 登录，点击`入站列表`  
 
 ![1679463605536.png](https://img.zeges.top/gQ0paQ.png)  
