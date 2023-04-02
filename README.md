@@ -1,4 +1,4 @@
-## 总则：只讲过程不讲理论
+## 自建节点方法
 ## 一、购买流程
 对于VPS的选购方面我不懂，我只能说我用的是hostyun
 [我的推广连接](https://my.hostyun.com/page.aspx?c=referral&u=31085)  
