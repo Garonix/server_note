@@ -308,7 +308,8 @@ bash <(curl -Ls https://raw.githubusercontent.com/FranzKafkaYu/x-ui/master/insta
 接下来**按图操作**  
 
 ![1679461560861.png](https://img.zeges.top/SgyyEI.png)  
-记得最后还要点击`重启面板`
+图有点小错误，`/path`一定要写成`/path/`  
+`保存配置`之后，还要点击`重启面板`  
 完成之后，重新访问`http://ip:端口号/path`  
 然后继续**按图操作**  
 
